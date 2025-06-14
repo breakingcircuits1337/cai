@@ -1,0 +1,9 @@
+# This is your configuration file.
+# Please replace placeholders with your actual API keys.
+
+api_keys:
+  GEMINI_API_KEY: 'YOUR_GEMINI_API_KEY_HERE'
+  MISTRAL_API_KEY: 'YOUR_MISTRAL_API_KEY_HERE'
+  GROQ_API_KEY: 'YOUR_GROQ_API_KEY_HERE'
+  ABUSEIPDB_API_KEY: 'YOUR_ABUSEIPDB_API_KEY_HERE'
+  ELEVENLABS_API_KEY: 'YOUR_ELEVENLABS_API_KEY_HERE'

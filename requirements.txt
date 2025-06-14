@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly-express
+httpx
+asyncio
+python-nmap
+playwright
+pyyaml
+scapy
+dnspython
+psutil
+requests
+ipaddress
+# Optional, for PDF reporting if you extend it
+# weasyprint
